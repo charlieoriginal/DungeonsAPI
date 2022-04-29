@@ -1,0 +1,7 @@
+name: DungeonsAPI
+version: '${project.version}'
+main: io.dungeons.dungeonsapi.DungeonsAPI
+api-version: 1.18
+authors: [ Baguette ]
+description: This is the all-inclusive API for Dungeons servers.
+website: www.dungeons.io
